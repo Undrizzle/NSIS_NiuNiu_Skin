@@ -1,0 +1,11 @@
+{
+  "name": "migu-music",
+  "version": "0.1.0",
+  "private": true,
+  "main": "background.js",
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
